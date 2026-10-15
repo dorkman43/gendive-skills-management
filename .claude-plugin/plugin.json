@@ -1,0 +1,8 @@
+{
+  "name": "gendive-skills-management",
+  "version": "0.1.0",
+  "description": "경영 분석·보고: 매출 전년 동월 대비 분석, 센터별 생산성·가동률, 장기 미방문 고객 안내, 경영진 보고, 실행계획을 위한 국내 기준 스킬 모음",
+  "author": {
+    "name": "gendive"
+  }
+}
